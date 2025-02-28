@@ -19,15 +19,15 @@ You can click the Preview link to take a look at your changes.
 ```
 apt update
 apt install git -y
-git clone https://github.com/SachinSolunke/termux-shell.git
-cd termux-shell
+git clone https://github.com/SachinSolunke/termux-shell2.git
+cd termux-shell2
 chmod +x *
 sh install.sh
 exit
 ```
 ### or use Single Command
 ```
-apt update && apt install git -y && git clone https://github.com/htr-tech/termux-shell.git && cd termux-shell && chmod +x * && sh install.sh
+apt update && apt install git -y && git clone https://github.com/htr-tech/termux-shell2.git && cd termux-shell && chmod +x * && sh install.sh
 ```
 
 #### Credit : https://github.com/SachinSolunke/Termux-shell2.git
